@@ -1,21 +1,20 @@
 ## Hi there 👋
- i'm Randeep Singh
-🎓 Education: Currently pursuing BCA (1st Year) with a focus on application development and coding fundamentals
+About Me – Randeep Singh
+I’m Randeep Singh, a tech enthusiast and creative storyteller, currently pursuing my Bachelor of Computer Applications (BCA) with a strong focus on application development and AI-driven solutions.
 
-💻 Programming: Skilled in C programming and building a strong tech foundation
-🧠 AI Expertise: Specializes in ChatGPT prompt engineering & monetization strategies
-🌐 Web Design: Designing UI for web apps like MoodGroov with Apple Music–style dark dashboards
-📱 Social Media: Expert in creating viral Instagram Reels, trend-based scripts & meme integration
-📅 Brand Strategy: Experience in content calendars, reels, and copywriting for D2C & wellness brands
-🎥 Scriptwriting: Writes intense Punjabi historical vlogs in Theth Malwai dialect with cinematic detail
-🗣️ Languages: Fluent in English ↔ Punjabi translation for storytelling, branding, and scriptwriting
-🎧 Music Production: Creating Punjabi hip-hop beats with unique Egyptian instrument fusion
-📖 Content Creation: Building a premium eBook titled “100 Ways to Make Money with ChatGPT”
-🌱 Research Writing: Wrote a 1460-word article on Green Innovation for a major writing competition
-🛠️ Tech Knowledge: Familiar with network tools, MAC filtering, router settings & broadband tracking
-✍️ Creative Writing: Skilled in long-form content, detailed guides & ebook structuring
-🔗 Connect with Me
-📸 Instagram:[ @i.randeep_](https://www.instagram.com/i.randeep_/)
+💻 Tech & Programming – Skilled in C/C++, JavaScript, and familiar with Python, I build robust full-stack applications using React.js, Node.js, Express.js, MongoDB, and API integrations. My project MoodGroov blends machine learning with a dynamic UI to create personalized music playlists.
+
+🧠 AI & Prompt Engineering – Specialized in ChatGPT prompt creation, AI monetization strategies, AI image/video generation, and natural language processing concepts, turning AI into real-world revenue streams.
+
+🎨 Creative & UI Design – Designer of intuitive, Apple Music–style dark dashboards, responsive websites, and branded visuals. I also create viral Instagram Reels, trending meme-based content, and strategic content calendars for D2C and wellness brands.
+
+🎥 Scriptwriting & Storytelling – Writer of intense Punjabi historical vlogs in Theth Malwai dialect with cinematic depth, blending history with cultural pride.
+
+🎧 Music & Content Creation – Producer of Punjabi hip-hop beats infused with Egyptian instrumental fusion, and author of the premium eBook “100 Ways to Make Money with ChatGPT”.
+
+🌱 Beyond Tech – Experienced in research writing, creative guides, and freelance digital services including logo design, video editing, and social media management for global clients.
+
+📍 Based in Mohali, I merge technology, creativity, and cultural storytelling to craft impactful digital experiences.
 
 
 🚀 Featured Projects
